@@ -1,1 +1,1 @@
-IN LUCRU! NU SUNT FOLDERELE DE LOGS SI LIBRARY. INCERC SA REZOLV
+Din cate am incercat, funtioneaza si fara folderele care lipsesc pe GitHub, daca nu, aia e! :)
